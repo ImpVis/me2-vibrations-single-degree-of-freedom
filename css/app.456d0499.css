@@ -1,0 +1,1 @@
+.iv-welcome-message{display:flex;flex-direction:column;align-items:center;margin-top:50px}html{overflow:hidden}.iv-pane-right{overflow:auto}#graph{z-index:-2}@media screen and (orientation:portrait){#graph{width:400px}}@media screen and (orientation:landscape){#graph{width:90%;height:400px}}
